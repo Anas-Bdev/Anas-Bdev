@@ -25,6 +25,7 @@
 <hr>
 
 <h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -50,6 +51,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Design_Patterns-555555?style=for-the-badge&logo=blueprint&logoColor=white" />
 </p>
+
 <hr>
 
 <h3 align="left">📫 Connect With Me</h3>
