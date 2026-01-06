@@ -17,7 +17,7 @@
 
 <ul align="left">
  🔭 <b>I’m currently working on:</b> Building <b>scalable backend architectures</b> and applying <b>Clean Architecture</b> principles.<br>
- 💼 <b>My Journey:</b> I started my Web Development journey <b>over 2 years ago</b> with frontend technologies (HTML, CSS, JS) and have since specialized in <b>Backend Engineering</b> (focusing on Node.js & .NET).<br>
+ 💼 <b>My Journey:</b> I started my Web Development journey <b>over 2 years ago</b> with frontend technologies (HTML, CSS, JS) and have since specialized in <b>Backend Engineering</b>.<br>
  🌱 <b>I’m currently learning:</b> Advanced Backend & Database Management, and building robust RESTful APIs.<br>
  💬 <b>Ask me about:</b> Computer Architecture, Backend Logic, Database Management, and how software interacts with hardware.<br>
  ⚡ <b>Fun fact:</b> I love understanding the low-level details of how code executes on the CPU!
