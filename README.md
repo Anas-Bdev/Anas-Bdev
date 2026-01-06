@@ -16,10 +16,11 @@
 <h3 align="left">🚀 About Me</h3>
 
 <ul align="left">
- 🔭 <b>I’m currently working on:</b> A comprehensive <b>Pharmacy Management System</b> to digitize inventory, sales, and patient data.<br>
- 🌱 <b>I’m currently learning:</b> Advanced Backend Architecture, System Optimization, and RESTful API Design.<br>
- 💬 <b>Ask me about:</b> Computer Architecture, Backend Logic, and Database Management.<br>
- ⚡ <b>Fun fact:</b> I love understanding how software talks to hardware down to the register level!
+ 🔭 <b>I’m currently working on:</b> Building <b>scalable backend architectures</b> and applying <b>Clean Architecture</b> principles.<br>
+ 💼 <b>My Journey:</b> I started my Web Development journey <b>over 2 years ago</b> with frontend technologies (HTML, CSS, JS) and have since specialized in <b>Backend Engineering</b> (focusing on Node.js & .NET).<br>
+ 🌱 <b>I’m currently learning:</b> Advanced Database Optimization, Microservices, and Secure API Design.<br>
+ 💬 <b>Ask me about:</b> Computer Architecture, Backend Logic, Database Management, and how software interacts with hardware.<br>
+ ⚡ <b>Fun fact:</b> I love understanding the low-level details of how code executes on the CPU!
 </ul>
 
 <hr>
