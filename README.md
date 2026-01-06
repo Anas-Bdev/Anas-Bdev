@@ -2,10 +2,14 @@
 
 <p align="center">
   <b> 🎓 Computer Engineering Student (Final Semester) from Palestine 🇵🇸 </b><br>
-  Passionate about Backend Systems ⚙️, Computer Architecture 💻, and Scalable Software.
+  Passionate about <b>Backend Systems ⚙️</b>, <b>Robust API Design 🔌</b>, and <b>Database Architectures 🗄️</b>.
 </p>
 
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/Status-Seeking_Internship-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status: Seeking Internship" />
+  </a>
+</p>
 
 <hr>
 
@@ -13,8 +17,8 @@
 
 <ul align="left">
  🔭 <b>I’m currently working on:</b> A comprehensive <b>Pharmacy Management System</b> to digitize inventory, sales, and patient data.<br>
- 🌱 <b>I’m currently learning:</b> Advanced Backend Architecture, System Optimization, and API Design.<br>
- 💬 <b>Ask me about:</b> Computer Architecture, Backend Logic, WordPress/Elementor, and Database Management.<br>
+ 🌱 <b>I’m currently learning:</b> Advanced Backend Architecture, System Optimization, and RESTful API Design.<br>
+ 💬 <b>Ask me about:</b> Computer Architecture, Backend Logic, and Database Management.<br>
  ⚡ <b>Fun fact:</b> I love understanding how software talks to hardware down to the register level!
 </ul>
 
@@ -48,7 +52,8 @@
 
 <hr>
 <p align="center">
-  <i>"Engineers like to solve problems. If there are no problems handily available, they will create their own problems
+  <i>"Engineers like to solve problems. If there are no problems handily available, they will create their own problems."</i>
+</p>
 <!--
 **Anas-Bdev/Anas-Bdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
