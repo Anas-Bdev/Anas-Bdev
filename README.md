@@ -18,7 +18,7 @@
 <ul align="left">
  🔭 <b>I’m currently working on:</b> Building <b>scalable backend architectures</b> and applying <b>Clean Architecture</b> principles.<br>
  💼 <b>My Journey:</b> I started my Web Development journey <b>over 2 years ago</b> with frontend technologies (HTML, CSS, JS) and have since specialized in <b>Backend Engineering</b> (focusing on Node.js & .NET).<br>
- 🌱 <b>I’m currently learning:</b> Advanced Database Optimization, Microservices, and Secure API Design.<br>
+ 🌱 <b>I’m currently learning:</b> Advanced Backend & Database Management, and building robust RESTful APIs.<br>
  💬 <b>Ask me about:</b> Computer Architecture, Backend Logic, Database Management, and how software interacts with hardware.<br>
  ⚡ <b>Fun fact:</b> I love understanding the low-level details of how code executes on the CPU!
 </ul>
@@ -58,11 +58,8 @@
 <h3 align="left">📫 Connect With Me</h3>
 
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:anashaj04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
