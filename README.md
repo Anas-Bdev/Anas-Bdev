@@ -7,6 +7,8 @@
 
 <br>
 
+<hr>
+
 <h3 align="left">🚀 About Me</h3>
 
 <ul align="left">
@@ -16,7 +18,7 @@
  ⚡ <b>Fun fact:</b> I love understanding how software talks to hardware down to the register level!
 </ul>
 
-<br>
+<hr>
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
@@ -31,7 +33,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br>
+<hr>
 
 <h3 align="left">📫 Connect With Me</h3>
 
@@ -46,9 +48,7 @@
 
 <hr>
 <p align="center">
-  <i>"Engineers like to solve problems. If there are no problems handily available, they will create their own problems."</i>
-</p>
-
+  <i>"Engineers like to solve problems. If there are no problems handily available, they will create their own problems
 <!--
 **Anas-Bdev/Anas-Bdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
