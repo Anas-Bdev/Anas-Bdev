@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Anas! 👋</h1>
 
 <p align="center">
-  <b> 🎓 Computer Engineering Student (Final Semester) from Palestine 🇵🇸 </b><br>
-  Passionate about <b>Backend Systems ⚙️</b>, <b>Robust API Design 🔌</b>, and <b>Database Architectures 🗄️</b>.
+  <b> 🎓 Computer Engineering Graduate from Palestine 🇵🇸 </b><br>
+  Dedicated to engineering <b>Scalable Backend Systems ⚙️</b>, <b>Enterprise API Architectures 🔌</b>, and <b>High-Performance Database Designs 🗄️</b>.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/Status-Seeking_Internship-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status: Seeking Internship" />
+    <img src="https://img.shields.io/badge/Status-Open_To_Work_/_Full_Time-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status: Open to Full-Time Roles" />
   </a>
 </p>
 
