@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> 🎓 Computer Engineering Graduate from Palestine 🇵🇸 </b><br>
-  Dedicated to engineering <b>Scalable Backend Systems ⚙️</b>, <b>Enterprise API Architectures 🔌</b>, and <b>High-Performance Database Designs 🗄️</b>.
+  Dedicated to engineering <b>Backend Systems ⚙️</b>, <b>RESTful API Architectures 🔌</b>, and <b>High-Performance Database Designs. 🗄️</b>.
 </p>
 
 <p align="center">
